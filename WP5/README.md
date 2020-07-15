@@ -1,11 +1,3 @@
-# ExPaNDS Work Package 5: Training activities through EOSC platforms
-
-This Work Package will organise workshops and deliver training materials through the e-learning platforms made available on the EOSC. Training will be organised in cooperation with EOSC related activities. 
-
-## Directory Contents
-
-`WORK IN PROGRESS`
-
--------------------
-
-[Move up](../README.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b0f6d4e0c7121eb198dd425f49db3f2ed2b0808a3280243929600a98c5efff8
+size 366
