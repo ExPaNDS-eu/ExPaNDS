@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16bfc05c1243bffd86f386b98f428c7c198288e19edbb064c2cec2feb7c5391a
-size 503
+# ExPaNDS Work Package 1: Management and Sustainability
+
+This Work Package implements the project’s governance and management structure, undertaking overall project administration to ensure successful achievement of the project’s objectives. It will address sustainability of the EOSC provided services.
+
+## Directory Contents
+
+[Webinar - EOSC portal service onboarding](./Expands-EOSC-provider-onboarding_v1.pptx) - Slides by **Diego Scardaci** [EGI]
+
+-------------------
+
+[Move up](../README.md)
+

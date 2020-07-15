@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7675cf1ae031fd747de263cf526f644a67f19088a128110418975c7e679c4b47
-size 318
+# ExPaNDS Work Package 6: Dissemination and Outreach
+
+This Work Package will support and promote the ExPaNDS initiative in Europe and beyond and promote Open Data and FAIR data principles to users and other RIs around the world.
+
+## Directory Contents
+
+`WORK IN PROGRESS`
+
+-------------------
+
+[Move up](../README.md)
