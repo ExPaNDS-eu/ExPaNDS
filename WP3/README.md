@@ -8,4 +8,4 @@ This Work Package will extend and deepen the adoption and use of FAIR data princ
 
 -------------------
 
-[Move up](../)
+[Move up](../README.md)

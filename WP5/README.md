@@ -8,4 +8,4 @@ This Work Package will organise workshops and deliver training materials through
 
 -------------------
 
-[Move up](../)
+[Move up](../README.md)

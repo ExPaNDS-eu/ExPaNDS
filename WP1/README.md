@@ -8,5 +8,5 @@ This Work Package implements the project’s governance and management structure
 
 -------------------
 
-[Move up](../)
+[Move up](../README.md)
 
