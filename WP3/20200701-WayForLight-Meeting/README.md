@@ -1,9 +1,11 @@
-Meeting about Wayforlight and how it would fit into ExPaNDS.
+# Meeting about Wayforlight and how it would fit into ExPaNDS
 
+```
 Date: July 1st 2020
 Time: 10:00 (CEST)
+```
 
-Attendees: 
+## Attendees: 
 - Cecilia Blasetti (Elettra)
 - Silvia Ramos, Steve Collins (DLS)
 - Alun Ashton (PSI)
@@ -14,3 +16,5 @@ Attendees:
 - Alessandro Olivo (CERIC-ERIC)
 - Henrik Johansson (ESS)
 - Daniel Salvat (ALBA)
+
+[Move up](../)
