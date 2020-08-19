@@ -31,3 +31,10 @@ All that should be found after the project has ended will be findable in sustain
 - [Work Package 4: EOSC data analysis services for PaN national RIs](./WP4)
 - [Work Package 5: Training activities through EOSC platforms](./WP5)
 - [Work Package 6: Dissemination and Outreach](./WP6)
+
+### Internal & Technical documentation
+
+(See [`./doc`](./doc) subdirectory)
+
+- [Git LFS: overview and brief manual for end-user](./doc/git-lfs.md)
+

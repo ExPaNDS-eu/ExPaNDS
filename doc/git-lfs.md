@@ -1,0 +1,8 @@
+# Git LFS
+
+**Git LFS** is an extension pack for Git version control system. It is implemented on the top of Git itself as a set of helper programs. They provide for the given local copy of the Git repository a set of predefined procedures (so called *hooks*) allowing to avoid re-hashing of large binary objects ("blobs" here and below). Cause the original Git utilizes multihashes joining the data into the repository into content-based direct acyclic graphs with high proven integrity every piece of data added to the repository is compressed, assigned with Object ID (OID) and stored for the whole repository lifecycle. Thus adding and rehashing of the blobs bloat the repository itself and the most important problem is that it consumes resources during re-hashing of the blobs building OIDs.
+
+As it is described in details in [the official documentation](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md), Git LFS assigns its own internal IDs to the blobs using one of existing [multihash](https://github.com/moreati/multihash/tree/spec) implementations. After that the blobs inside the repository are replaced by impostor text files containing metadata for building URI pointing to the actual data. Then Git LFS places the binary data of the blobs into special subdirectory within the repository and defines the filters to intercept the regular Git operations accessing these data. It leads to increasing of performance on both the local machine and remote Git server. However, on the server side Git LFS requires presence of special LFS daemon to parse requests operating with blobs as binary data streams.
+
+TODO: Describe LFS supporting landscape
+
