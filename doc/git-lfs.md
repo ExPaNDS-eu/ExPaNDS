@@ -50,6 +50,29 @@ version https://git-lfs.github.com/spec/v1
 oid sha256:1f67d13eb29e7c955eb252e06e76f6c0aec66af23c2570cca397ad5191a2544f
 size 2315
 ```
+The LFS hooks will now run a script to download the data from remote server and replace impostor file with actual one within the working tree.
+
+### Typical use cases
+
+#### New installation
+
+The typical use case for LFS is pushing bunches of binary data into the remote repository with known LFS support. The algorithm is following:
+
+- Cloning/barebone creation of the initial repository with `git lfs clone`/`git init`;
+- Installation of the LFS hooks into the working tree with `git lfs install`;
+- Preparation for LFS push operations with `git lfs track` command and edition of `.gitattributes` file;
+- Working with local repository in the same way as normal Git repository.
+
+#### Migration
+This use case is typical for the repositories containing non-LFS tracked binary data. The algorithm here is looking as following:
+
+- Cloning of the initial repository with `git clone`;
+- Installation of the LFS hooks into the working tree with `git lfs install`;
+- Preparation for LFS push operations with `git lfs track` command and edition of `.gitattributes` file;
+- Invocation of `git lfs migrate import`;
+- Checking and testing of the repository contents with `git lfs fsck` and `git lfs status`;
+- Checking of the remote support of LFS with `git lfs update` and `git lfs push`;
+- Working with local repository in the same way as normal Git repository.
 
 ### Command list
 
