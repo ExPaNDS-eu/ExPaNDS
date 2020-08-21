@@ -77,5 +77,3 @@ In the following table the most used LFS commands are collected as they are desc
 |`git lfs untrack`|Stops tracking the given FS patterns(s) through Git LFS|
 |`git lfs update`|Updates the Git hooks used by Git LFS. Silently upgrades known hook contents|
 
-
-
