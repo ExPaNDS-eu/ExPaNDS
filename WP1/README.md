@@ -4,9 +4,9 @@ This Work Package implements the project’s governance and management structure
 
 ## Directory Contents
 
-[Webinar - EOSC portal service onboarding](./Expands-EOSC-provider-onboarding_v1.pptx) - Slides by **Diego Scardaci** [EGI]
+- [Webinar - EOSC portal service onboarding](./20200715-EOSC-Onboarding-Presentation) - Slides and recording by **Diego Scardaci** [EGI]
+- [ExPaNDS and PaNOSC partners map](./ExPaNDS-PaNOSC-partners.png)
 
 -------------------
 
 [Move up](../README.md)
-
