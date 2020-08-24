@@ -52,6 +52,10 @@ size 2315
 ```
 The LFS hooks will now run a script to download the data from remote server and replace impostor file with actual one within the working tree.
 
+### LFS within the project
+
+Repository containing LFS objects may affect the client side in case the LFS is not installed correctly. In normal situation standard `clone` operation downloads all LFS objects at first of the repository to `.git/lfs/objects`. But if the client has no support for server-side hooks, LFS data may not be downloaded or they may not be linked to the impostor files in the working tree. Or, for example, Git GUI client can prohibit downloading blobs from the URI pointing outside the repository. This may even accelerate the initial cloning but then the work with content inside the repository may become complicated. In this case LFS hooks should be installed on the client side by `git lfs install` command and then fixation can be done with `git lfs fetch` and `git lfs fsck`.
+
 ### Typical use cases
 
 #### New installation
