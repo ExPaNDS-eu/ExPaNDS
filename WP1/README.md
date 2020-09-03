@@ -11,7 +11,7 @@ This Work Package implements the project’s governance and management structure
 
 ## Useful links
 
-- ExPaNDS Project Executive Board meetings - all the minutes [here](https://expands-eu.github.io/ExPaNDS/pebs.html)
+- ExPaNDS Project Executive Board meetings - all the minutes [here](https://expands-eu.github.io/WP1-reporting/pebs.html)
 - ExPaNDS / PaNOSC annual meeting organisation team - all the minutes [here](https://github.com/panosc-eu/panosc/issues/53)
 
 -------------------
