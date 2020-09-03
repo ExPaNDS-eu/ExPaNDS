@@ -1,0 +1,3 @@
+[submodule "WP1/reports"]
+	path = WP1/reports
+	url = git@github.com:ExPaNDS-eu/WP1-reporting.git
