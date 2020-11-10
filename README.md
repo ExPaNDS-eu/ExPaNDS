@@ -40,7 +40,7 @@ We also have a chat facility for all ExPaNDS and PaNOSC contributors to exchange
 2. Getting access to the **PaN GitLab at DESY** (EGI Fed-cloud)
 - [ ] Log into `eosc-pan-git.desy.de` with the EGI Check-in log in you prepared in the step before
 
-> /!\ As we need some control over the people accessing the gitlab service (by law), you will be able to log-in but you will be blocked for using the services. 3 People at DESY will be triggered and will unblock you as soon as we can. We will send you an confirmation e-mail after we unblock you.
+> :warning: As we need some control over the people accessing the gitlab service (by law), you will be able to log-in but you will be blocked for using the services. 3 People at DESY will be triggered and will unblock you as soon as we can. We will send you an confirmation e-mail after we unblock you.
 
 3. Finally accessing **eosc-pan-chat.desy.de**
 
