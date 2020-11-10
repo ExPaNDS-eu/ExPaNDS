@@ -4,7 +4,7 @@ This Work Package will provide the coordination, adaption, and alignment of exis
 
 ## Directory Contents
 
-- [Results of the ExPaNDS and PaNOSC survey on data analysis infrastructures](./20201009-Technical-Workshop-Survey.pdf) - Slides presented by Sophie Servan [DESY] during the Technical Workshop on the **Portal Architecture Test Experience** on Oct. 8th and 9th, 2020.
+- All contributions to the Technical Workshop on the **Portal Architecture Test Experience** on Oct. 8th and 9th, 2020 can be found in the [Indico page of the event](https://indico.cells.es/event/249/contributions/).
 
 -------------------
 
