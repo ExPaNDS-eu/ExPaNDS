@@ -17,10 +17,10 @@ All our public deliverables and other relevant publications are available in our
 There is also a [shared calendar](https://calendar.google.com/calendar?cid=YWJnY3R2N3E5dnBvY2VhZzRnNnNndmprcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), where we try to keep up with all WP meetings, project meetings and other interesting events from the Photon, Neutron or EOSC communities.
 
 ## Project's SharePoint
-For registered contributors, the internal project's directory can be found [here on MS SharePoint](https://dlsltd.sharepoint.com/sites/GRA0046). If you don't have access, please send a request to `info at expands.eu`. Once in there you will be able to access e.g. the `who's who` table with all you need to know about your new colleagues. Just use SharePoint's search engine.
+For registered contributors, the internal project's directory can be found [here on MS SharePoint](https://dlsltd.sharepoint.com/sites/GRA0046). If you don't have access, please send a request to `info at expands.eu`. Once in there you will be able to access e.g. the `who's who` table with all you need to know about your new colleagues. Look for `ExPaNDS who's who.xlsx` in `Documents > General` and fill your own personal data.
 
 ## How to register to internal mailing lists?
-If you work for a specific work-package and want to receive all internal communications, you can send a subscription request *i.e.* an empty mail to `<list_name>-subscribe at desy.de`, to the chosen list:
+Working for ExPaNDS and not yet in the `all at expands.eu` mailing list distribution? Please send a request to `info at expands.eu`. If you work for a specific work-package and want to receive all internal communications, you can automatically subscribe sending a request *i.e.* an empty mail to `<list_name>-subscribe at desy.de`, to the chosen list:
 - WP1: management and sustainability `wp1-expands.eu`
 - WP2: FAIR `wp2-expands.eu`
 - WP3: data catalogues `wp3-expands.eu`
