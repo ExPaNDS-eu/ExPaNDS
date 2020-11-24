@@ -29,24 +29,7 @@ Working for ExPaNDS and not yet in the `all at expands.eu` mailing list distribu
 - WP6: communication and outreach `wp6-expands.eu`
 
 ## How to connect to the Photon and Neutron chat facility?
-We also have a chat facility for all ExPaNDS and PaNOSC contributors to exchange directly and in a more agile environment than e-mails. The first-time access is a bit painful but it is worth it!
-*N.B: we are going to add the possibility to log in with Keycloak in addition to EGI check-in soon.*
-
-1. Getting an **EGI Checkin** account (if you don't already have one)
-- [ ] Log into `aai.egi.eu` and follow the instructions.
-
-> Here you can define your OIDC provider, which can be your facility IdP or others, like GitHub.
-
-2. Getting access to the **PaN GitLab at DESY** (EGI Fed-cloud)
-- [ ] Log into `eosc-pan-git.desy.de` with the EGI Check-in log in you prepared in the step before
-
-> :warning: As we need some control over the people accessing the gitlab service (by law), you will be able to log-in but you will be blocked for using the services. 3 People at DESY will be triggered and will unblock you as soon as we can. We will send you an confirmation e-mail after we unblock you.
-
-3. Finally accessing **eosc-pan-chat.desy.de**
-
-- [ ] After having received the 'unblock' e-mail, you can finally log into the PaN Mattermost at this address: `eosc-pan-chat.desy.de`. This time please choose **GitLab** as log-in provider.
-
-[Mattermost](https://mattermost.com/) can either be used via your browser or, alternatively you can download the app for various platforms.
+We also have a chat facility for all ExPaNDS and PaNOSC contributors to exchange directly and in a more agile environment than e-mails. You will receive the invitation link to `panosc.slack.com` in your welcome message to `all at expands.eu`. In case of doubt, just send a mail to `info at expands.eu` and we will send it again.
 
 # Purpose of our GitHub repository
 This repository allows us to publicly share work-in-progress or reporting material, for collaboration or just for transparency.
