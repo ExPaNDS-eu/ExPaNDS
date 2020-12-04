@@ -1,6 +1,6 @@
 # ExPaNDS Work Package 3: EOSC data catalogue services for PaN national RIs
 
-This Work Package will extend and deepen the adoption and use of FAIR data principles within the Photon and Neutron community to allow publication and access of national RI data and services within the EOSC. 
+This Work Package Will deliver EOSC data catalogue services for RIs to provide access as a one-stop-shop for scientific facility users, academics and the general public to find and exploit research data.
 
 ## Directory Contents
 
