@@ -4,32 +4,11 @@
 
 ExPaNDS is the European Open Science Cloud (EOSC) Photon and Neutron Data Services. Our aim is to deliver standardised, interoperable and integrated data sources and data analysis services for national Photon and Neutron facilities to the [EOSC](https://www.eosc-portal.eu/). It complements the PaNOSC project who has similar objectives for the [ESFRI](https://www.esfri.eu/) PaN RIs.
 
-![EU](https://i2.wp.com/expands.eu/wp-content/uploads/2019/09/eulogo.jpg?resize=100%2C67&ssl=1)
+Looking for useful links and first steps into the project? Visit the [Wiki](https://github.com/ExPaNDS-eu/ExPaNDS/wiki).
+
+![EU](https://i2.wp.com/expands.eu/wp-content/uploads/2019/09/eulogo.jpg?resize=100%2C67&ssl=1) 
 
 This project receives funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 857641.
-
-# Useful links and first steps
-## ExPaNDS on the web
-Visit our [`expands.eu`](https://expands.eu) website to find out more about our objectives, partners, news and vacancies. For PaNOSC, go to [`panosc.eu`](https://panosc.eu) and to [`this github repository`](https://github.com/panosc-eu/panosc).
-
-All our public deliverables and other relevant publications are available in our [Zenodo community](https://zenodo.org/communities/expands/) and in [OpenAire](https://explore.openaire.eu/search/project?projectId=corda__h2020::9d87a9fbd7da1345ec6ba3a4710c4f68).
-
-There is also a [shared calendar](https://calendar.google.com/calendar?cid=YWJnY3R2N3E5dnBvY2VhZzRnNnNndmprcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), where we try to keep up with all WP meetings, project meetings and other interesting events from the Photon, Neutron or EOSC communities.
-
-## Project's SharePoint
-For registered contributors, the internal project's directory can be found [here on MS SharePoint](https://dlsltd.sharepoint.com/sites/GRA0046). If you don't have access, please send a request to `info at expands.eu`. Once in there you will be able to access e.g. the `who's who` table with all you need to know about your new colleagues. Look for `ExPaNDS who's who.xlsx` in `Documents > General` and fill your own personal data.
-
-## How to register to internal mailing lists?
-Working for ExPaNDS and not yet in the `all at expands.eu` mailing list distribution? Please send a request to `info at expands.eu`. If you work for a specific work-package and want to receive all internal communications, you can automatically subscribe sending a request *i.e.* an empty mail to `<list_name>-subscribe at desy.de`, to the chosen list:
-- WP1: management and sustainability `wp1-expands.eu`
-- WP2: FAIR `wp2-expands.eu`
-- WP3: data catalogues `wp3-expands.eu`
-- WP4: data analysis `wp4-expands.eu`
-- WP5: training `wp5-expands.eu`
-- WP6: communication and outreach `wp6-expands.eu`
-
-## How to connect to the Photon and Neutron chat facility?
-We also have a chat facility for all ExPaNDS and PaNOSC contributors to exchange directly and in a more agile environment than e-mails. You will receive the invitation link to `panosc.slack.com` in your welcome message to `all at expands.eu`. In case of doubt, just send a mail to `info at expands.eu` and we will send it again.
 
 # Purpose of our GitHub repository
 This repository allows us to publicly share work-in-progress or reporting material, for collaboration or just for transparency.
