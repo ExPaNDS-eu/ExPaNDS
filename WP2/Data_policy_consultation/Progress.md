@@ -4,7 +4,7 @@ ALBA | Daniel | :question: | :question: | :question: | No
 DESY | Frank | Yes :question: | :question: | :question: | No
 Diamond | Abigail | Yes | Yes | No | No
 Elettra | Andrei | Yes | Yes :question: | Yes :question: | No | No
-HZB | Majid | :question: | :question: | :question: | No |
+HZB | Majid | :question: :warning: | :question: | :question: | No |
 HZDR | Abigail | Yes | Yes | No | No
 Max IV | Abigail | Yes | Yes | No | No
 PSI | Alun | No :warning: | No | No | No
