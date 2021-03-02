@@ -7,6 +7,6 @@ Elettra | Andrei | Yes | Yes :question: | Yes :question: | No | No
 HZB | Majid | :question: :warning: | :question: | :question: | No |
 HZDR | Abigail | Yes | Yes | No | No
 Max IV | Abigail | Yes | Yes | No | No
-PSI | Alun | No :warning: | No | No | No
+PSI | Alun | Yes | No | No | No
 Soleil | Majid | Yes :question: | :question: | No | No
 ISIS (UKRI) | Abigail | Yes | Yes | Yes | No
