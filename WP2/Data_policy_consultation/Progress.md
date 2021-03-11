@@ -5,7 +5,7 @@ DESY | Frank | Yes :question: | :question: | :question: | No
 Diamond | Abigail | Yes | Yes | No | No
 Elettra | Andrei | Yes | Yes (WIP) | No (WIP) | No | No
 HZB | Majid | No :warning: | No | No | No |
-HZDR | Abigail | Yes | Yes | No | No
+HZDR | Abigail | Yes | Yes | Yes | No
 Max IV | Abigail | Yes | Yes | No | No
 PSI | Alun | Yes | No | No | No
 Soleil | Majid | Yes | No | No | No
