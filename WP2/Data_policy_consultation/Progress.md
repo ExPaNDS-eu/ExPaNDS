@@ -9,4 +9,4 @@ HZDR | Abigail | Yes | Yes | Yes | No
 Max IV | Abigail | Yes | Yes | No | No
 PSI | Alun | Yes | No | No | No
 Soleil | Majid | Yes | No | No | No
-ISIS (UKRI) | Abigail | Yes | Yes | Yes | No
+ISIS (UKRI) | Abigail | Yes | Yes | Yes | Yes
