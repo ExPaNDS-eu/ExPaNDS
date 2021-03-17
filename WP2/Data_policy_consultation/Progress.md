@@ -3,7 +3,7 @@ Facility | ExPaNDS person in charge | Right contact found? | Interviews schedule
 ALBA     | Daniel                   | Yes                  | Yes                   | No                   | No
 DESY     | Frank                    | Yes :question:       | :question:            | :question:           | No
 Diamond  | Abigail                  | Yes                  | Yes                   | No                   | No
-Elettra  | Andrei                   | Yes                  | Yes                   | Yes                  | No 
+Elettra  | Andrei                   | Yes                  | Yes                   | Yes                  | Yes 
 HZB      | Majid                    | No :warning:         | No                    | No                   | No 
 HZDR     | Abigail                  | Yes                  | Yes                   | Yes                  | No
 Max IV   | Abigail                  | Yes                  | Yes                   | No                   | No
