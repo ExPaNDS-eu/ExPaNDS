@@ -1,6 +1,6 @@
 Facility | ExPaNDS person in charge | Right contact found? | Interviews scheduled? | Interviews complete? | Feedback sent back to WP2?
 ---------|--------------------------|----------------------|-----------------------|----------------------|---------------------------
-ALBA     | Daniel                   | Yes                  | Yes                   | No                   | No
+ALBA     | Daniel                   | Yes                  | Yes                   | Yes                  | No
 DESY     | Frank                    | Yes                  | Yes                   | Yes                  | Yes
 Diamond  | Abigail                  | Yes                  | Yes                   | Yes                  | write up with DLS for checking
 Elettra  | Andrei                   | Yes                  | Yes                   | Yes                  | Yes 
