@@ -7,6 +7,6 @@ Elettra  | Andrei                   | Yes                  | Yes                
 HZB      | Brigitte                 | Yes                  | Yes                   | Yes                  | No 
 HZDR     | Abigail                  | Yes                  | Yes                   | Yes                  | Yes
 Max IV   | Abigail                  | Yes                  | Yes                   | Yes                  | Yes
-PSI      | Alun                     | Yes                  | No                    | No                   | No
+PSI      | Alun                     | Yes                  | Yes                   | No                   | No
 Soleil   | Brigitte                 | Yes                  | Yes                   | Yes                  | No
 ISIS (UKRI) | Abigail               | Yes                  | Yes                   | Yes                  | Yes
