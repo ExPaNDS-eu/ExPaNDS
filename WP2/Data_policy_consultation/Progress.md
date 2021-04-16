@@ -2,7 +2,7 @@ Facility | ExPaNDS person in charge | Right contact found? | Interviews schedule
 ---------|--------------------------|----------------------|-----------------------|----------------------|---------------------------
 ALBA     | Daniel                   | Yes                  | Yes                   | Yes                  | No
 DESY     | Frank                    | Yes                  | Yes                   | Yes                  | Yes
-Diamond  | Abigail                  | Yes                  | Yes                   | Yes                  | write up with DLS for checking
+Diamond  | Abigail                  | Yes                  | Yes                   | Yes                  | Yes
 Elettra  | Andrei                   | Yes                  | Yes                   | Yes                  | Yes 
 HZB      | Brigitte                 | Yes                  | Yes                   | Yes                  | No 
 HZDR     | Abigail                  | Yes                  | Yes                   | Yes                  | Yes
