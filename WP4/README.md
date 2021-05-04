@@ -4,7 +4,8 @@ This Work Package will provide the coordination, adaption, and alignment of exis
 
 ## Directory Contents
 
-- All contributions to the Technical Workshop on the **Portal Architecture Test Experience** on Oct. 8th and 9th, 2020 can be found in the [Indico page of the event](https://indico.cells.es/event/249/contributions/).
+- The [reference datasets](./ExPaNDS_Reference_datasets.pdf) and their associated analysis pipeline
+- All contributions to the Technical Workshop on the **Portal Architecture Test Experience** on Oct. 8th and 9th, 2020 can be found in the [Indico page of the event](https://indico.cells.es/event/249/contributions/)
 
 -------------------
 
