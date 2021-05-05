@@ -4,7 +4,7 @@ This Work Package will organise workshops and deliver training materials through
 
 ## Directory Contents
 
-`WORK IN PROGRESS`
+Please refer to the **[PaN training dedicated organisation](https://github.com/pan-training)**.
 
 -------------------
 
