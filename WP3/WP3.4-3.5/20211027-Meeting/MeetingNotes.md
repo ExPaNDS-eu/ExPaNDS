@@ -36,7 +36,7 @@ We discussed about how and who from PANOSC to contact reagarding the workshop ab
 - Support facilities with Keycloak set up.
 - We aim to have the workshop in February/Mars.
 ## Miscellaneous
-- Rolf mentioned that HZDR should also be involved in the tasks. Carlo volunteered to contact them.
+- Rolf mentioned that HZDR should also be involved in the tasks. Rolf volunteered to contact them.
 
 ## Deadlines
 - Friday 5th November 2021: Sending out online survery.
