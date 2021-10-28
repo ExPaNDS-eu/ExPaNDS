@@ -9,7 +9,7 @@ For task 3.4
 For task 3.5
 - Discuss about idea and date for the workshop about Umbrella ID and Keycloak.
 
-## Discussion & Decision
+## Discussions & Decisions
 ### For task 3.4
 We disscused about the [questionaire](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/WP3.4-3.5/kpi-assessment/questions.md) that Rolf had drafted for gap and issue assessment. We also disscused about activities related to the gap and issue assessment such as:
 
@@ -18,7 +18,7 @@ We disscused about the [questionaire](https://github.com/ExPaNDS-eu/ExPaNDS/blob
 - How do we collect the answers?
 - Should we have a meeting after the survey so that each facility can go through their answers in detail?
 
-**Decision:**
+**Decisions:**
 - The questionaire for online survey will be created using Google form.
 - Sudha volunteered to create the questionaire, send it out and collect the answers.
 - The survey will be send out to each facility on Friday 5th November 2021.
@@ -29,7 +29,7 @@ We disscused about the [questionaire](https://github.com/ExPaNDS-eu/ExPaNDS/blob
 ## For task 3.5
 We discussed about how and who from PANOSC to contact reagarding the workshop about Umbrella ID. We also wanted to collecting a list of facilities that are interested to have Umbrella ID. To get the most our of the workshop the facilities should have running Keycloak on production so they can concentrate in Umbrella ID intergration. The goal is to be prepared before the workshop.
 
-**Decision:**
+**Decisions:**
 - Marta volunteered to contact PANOSC regarding the workshop.
 - Collecting a list of facilities which are interested in having Umbrella ID. We should have the list by Christmas.
 - Ask facilities what sort of assisstant needed for setting up Keycloak.

@@ -12,7 +12,7 @@ For task 3.4
 
 Discuss the next steps for both tasks.
 
-## Discussion & Decision
+## Discussions & Decisions
 
 ### For task 3.5
 From the WP3 monthly meeting we know that the federated search API doesn't have support for authentication. Our assumption is then that the federated search API will be used for public data only. This also means there is no need to integrating umbrella ID to federated search API.
@@ -34,7 +34,7 @@ Depend on the outcome of the assessment ExPaNDS could take different actions to 
 - If we find a diversity of issues we could help by organizing exchange of experience between ExPaNDS partners.
 The gap and issue assessment could be done through online survey or an informal meeting or both.
 
-**Decision:**
+**Decisions:**
 - Perform gap and issue assessment with more targeted questions on partners obstacles.
 - In case of informal meeting, ExPaNDS partners will receive the questionnaire before the meeting so they can prepare the answers in advance.
 
