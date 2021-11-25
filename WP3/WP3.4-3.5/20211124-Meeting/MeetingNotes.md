@@ -15,14 +15,14 @@ AOB
 
 Rolf presented the results of the KPI Assessment survey. It is probably most interesting to look at the planned activities (instead of achieved ones). We also need to look into priorities and help requested, so as to derive a direction for activities to help. We can take either a statistical or a freeform approach. In a statistical approach we will count the number of facilities asking for a particular help or highligting a particular issue. In the freeform approach we will try to understand the reasons for road blocks and needs of each facility. Not all facilities have responded to the online meeting date planning. 
 
-Decision:
-    A preference for the freeform approach was indicated.
-    The format of the online meeting will be
-        - A 10 minute introduction
-        - A 10 minute presentation of survey answers by each facility
-        - A discussion at the end
-    The goal of the meeting will be to identify next steps and direction to take.
-    The attempt will be to organize the meeting on a best possible date during weeks 48 or 49, since most people will go on vacation after that. However, a representative for each facility needs to be found.
+#### Decision:
+* A preference for the freeform approach was indicated.
+* The format of the online meeting will be
+    1. A 10 minute introduction
+    2. A 10 minute presentation of survey answers by each facility
+    3. A discussion at the end
+* The goal of the meeting will be to identify next steps and direction to take.
+* The attempt will be to organize the meeting on a best possible date during weeks 48 or 49, since most people will go on vacation after that. However, a representative for each facility needs to be found.
 
 ### For Task 3.5
 
