@@ -7,7 +7,7 @@ For Task 3.4
  - Discussion on the KPI Assessment meeting
 For Task 3.5
  - Discussion on KeyCloak-UmbrellaID Workshop
-AOB
+ - AOB
 
 ## Discussion & Decisions
 
@@ -36,7 +36,7 @@ We need a list of facilities who are interested to particpate in the workshop. T
 - We need response from ISIS and UKRI. Alejandra will try to send them in by early next week (week 48)
 - The meeting date to be finalized after Alejandra gets back.
 
-### For Task 3.4
+### For Task 3.5
 
 - Collect interest from each facility by November 29. Marta is collecting them.
 - Each facility interested in participating and needing assitance with KeyCloak installation is to get in touch with Rolf.
