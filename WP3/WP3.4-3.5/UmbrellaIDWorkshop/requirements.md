@@ -42,6 +42,8 @@ It is not mandatory, however you will benefit from the hands on session only if 
 
 ### Does the keycloak instance need to be integrated with internal Active Directory (AD)?
 
+This is not required for the workshop. It is possible to add AD integration later.
+
 You might want to have some sort of integration though, at least before going into production with Keycloak,
 because you probably want your AD users to be able to continue to use their credentials to log into Keycloak. 
 
