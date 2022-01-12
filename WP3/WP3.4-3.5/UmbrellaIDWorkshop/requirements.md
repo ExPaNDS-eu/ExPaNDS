@@ -3,7 +3,7 @@
 WP3 T3.5 has been discussing the integration of UmbrellaID + Keycloak at the facilities
 data catalogues.  
 The purpose of this page is to gather the requirements for the workshop and address 
-any question from the participants. 
+any questions from the participants. 
 
 Please contact wp3@expands.eu if you have any specific requirements or technical questions.
 
