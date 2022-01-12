@@ -38,7 +38,7 @@ February/March 2022 (TBD)
 ### Q&A
 
 ### Do I need to have Keycloak installed to attend the workshop?
-It is not mandatory, however you will benefit from the hands on session only if you have it installed
+It is not mandatory, however you won't have the full benefit from the hands on session, if you cannot apply it to your own installation right away.
 
 ### Does the keycloak instance need to be integrated with internal Active Directory (AD)?
 
