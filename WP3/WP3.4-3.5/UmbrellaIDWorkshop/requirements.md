@@ -8,7 +8,7 @@ any questions from the participants.
 Please contact wp3@expands.eu if you have any specific requirements or technical questions.
 
 ### Confirmed participants
-- ALBA, SOLEIL, PSI, HZB, MAXVI, STFC/UKRI, EGI
+- ALBA, SOLEIL, PSI, HZB, MAXVI, STFC/UKRI, EGI, DESY
 
 ### Who will be providing the workshop?
 - GEANT: Christos kanellopoulos
@@ -19,11 +19,13 @@ https://indico.psi.ch/event/10773/
 
 ### Timeline for the workshop 
 February/March 2022 (TBD)
+Mid March (Doodle to be sent out to wp3@expands.eu ) 2/3 week of March 
 
 ### Requirements
 
 - Integration of Keycloak with UmbrellaID 
 - To agree on the sessions that we need 
+- How to integrate a service (such us the data catalogue) into keycloak. Small overview (not in detail) To discuss with organisers 
 
 ### Checklist for the hands on session 
  
