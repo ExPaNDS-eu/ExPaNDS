@@ -18,7 +18,7 @@ Please contact wp3@expands.eu if you have any specific requirements or technical
 https://indico.psi.ch/event/10773/
 
 ### Timeline for the workshop 
-February/March 2020 (TBD)
+February/March 2022 (TBD)
 
 ### Requirements
 
