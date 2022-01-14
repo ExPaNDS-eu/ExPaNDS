@@ -20,9 +20,9 @@ Rolf presented the most common issues gathered from the KPI Assessment survey an
 
 In total there will be 3 workshops for exchanging ideas and knowlege. Below are planned activities to tackle each issue. 
 - Regarding standard data formats: We could gather together a list of projects working on stardard data format so that the ExPaNDS partners could know where they might get help this issue.
-- Regarding decision on metadata catalogue: We could organize a workshop where we present different solutions and highlight the weaknesses and strength of each solution. 
-- Reagarding PID issuing: We could organize workshop where we can exchange experiences and concept, invite external partners (B2Find), we could also make use of the PID workshop in WP 2 that takes place later this years.
-- Regarding AAI ID management integration: Umbrella ID integration with KeyCloak Workshop is already planned for this issue.
+- Regarding decision on metadata catalogue: We could organize a workshop where we present different solutions and highlight the weaknesses and strength of each solution.  Target date might be after the the Umbrella ID workshop, but before June, e.g. April/May.
+- Reagarding PID issuing: We could organize workshop where we can exchange experiences and concept, invite external partners (B2Find).  Target date might be early summer.  Note that there already was a workshop on [Persistent Identifiers for Research Facilities](https://expands.eu/2021/10/07/persistent-identifiers-for-research-facilities-workshop/) organized by WP2 in October last year.  But it was mostly on other PIDs than for raw data.
+- Regarding AAI ID management integration: Umbrella ID integration with KeyCloak Workshop is already planned for this issue, see below.
 
 ### For Task 3.5
 Marta made a report on Umbrella ID & KeyCloak workshop preparation. Information about this workshop can be found [here](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/WP3.4-3.5/UmbrellaIDWorkshop/requirements.md). We also discussed about the format of the workshop and when it should take place.
