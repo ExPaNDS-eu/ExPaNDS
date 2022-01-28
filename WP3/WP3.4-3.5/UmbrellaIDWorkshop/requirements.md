@@ -25,7 +25,8 @@ Mid March (Doodle to be sent out to wp3@expands.eu ) 2/3 week of March
 
 - Integration of Keycloak with UmbrellaID 
 - To agree on the sessions that we need 
-- How to integrate a service (such us the data catalogue) into keycloak. Small overview (not in detail) To discuss with organisers 
+- How to integrate a service (such us the data catalogue) into keycloak. Small overview (not in detail) To discuss with organisers
+-eduTeams intro 
 
 ### Checklist for the hands on session 
  
