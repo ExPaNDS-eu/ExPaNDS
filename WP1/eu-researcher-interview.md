@@ -53,7 +53,22 @@ not sure I get this one. Known problem of some labs that can't afford proprietar
 
 ## 4. Do existing research infrastructures like the diamond light source and the ALBA synchrotron have similar facilities, do they complement each other? Do you have both high energy physics machines and sources of synchrotron light in the project?  
 
-Each facility has its specialties, in wavelenght, in luminosity, even neutron and photon complement each other (photo of the telephone). And inside the facility, again each beamline has its own community / application / possibilities. Commonalities too of course. Prepare some examples.
+- Each facility has its specialties, in wavelenght, in luminosity, even neutron and photon complement each other (photo of the telephone). And inside the facility, again each beamline has its own community / application / possibilities. Commonalities too of course. Prepare some examples.
+- Both: the complement and there is competition in term of the technologies. But the basic phycis is the same. 
+-	e.g. ALBA: EIGHT OPERATING BEAMLINES HOST USER EXPERIMENTS.
+  -	INFRARED MICROSPECTROSCOPY
+  -	MATERIALS SCIENCE AND POWDER DIFFRACTION BEAMLINE
+  -	SOFT X-RAY MICROSCOPY
+  -	NON-CRYSTALLINE DIFFRACTION
+  -	MACROMOLECULAR CRYSTALLOGRAPHY
+  -	CORE LEVEL ABSORPTION & EMISSION SPECTROSCOPIES
+  -	PHOTOEMISSION SPECTROSCOPY AND MICROSCOPY
+  -	RESONANT ABSORPTION AND SCATTERING
+  -	ANGLE RESOLVED PHOTOEMISSION SPECTROSCOPY (ARPES)
+  -	OPTICS CHARACTERIZATION
+-	Diamond
+
+
 
 ## 5. Is the project aiming to develop a more standardised approach to data collection and data management at photon and neutron facilities? Do different facilities currently have different policies, do they generate different types of data?     
 
