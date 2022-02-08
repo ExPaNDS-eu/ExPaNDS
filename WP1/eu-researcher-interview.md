@@ -81,7 +81,7 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
   - *XFEL* Hub
 
 ### 4.b. Do you have both high energy physics machines and sources of synchrotron light in the project?  
-- well that is difficult to distinquesh. The elektron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
+- well that is difficult to distinquesh. The electron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
 
 ### 5. Is the project aiming to develop a more standardised approach to data collection and data management at photon and neutron facilities? Do different facilities currently have different policies, do they generate different types of data?     
 
@@ -120,6 +120,8 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 ### 9. Is photon and neutron data central to the technologies of the future, for example quantum computers? 
 
 -	In general Yes: for new technologies one need to understand the material it is build upon. So like batteries, nano technologies, aging process in material but also ‘cultural heritage’ allowing to read book and other documents w/o opening (breaking) them. 
+-	Aircraft as an example: - no we don't build aircrafts. But we do study material properties, crack propagation, the effect of additive manufacturing on material structure.  And those results are often directly relevant to the making of aircraft parts and improving efficiency/weight/enabling new designs etc. 
+-	Take the JWT. It is infrared astronomy. Webb's mirrors are covered in a microscopically thin layer of gold, and it is Beryllium, 5 times larger than hubble and lighter.
 -	On quantum is the same: There was a task force discussing this at one point Short answer:  We study materials, material properties, including measurements of quantum effects. These materials and an understanding of them is needed to make quantum computers.  But do we make the computers themselves, or have direct input into the machines - no. We are in effect a layer or two back providing measurements and data to those who do that.
 -	BUT : LEAPS meets Quantum Technology in May on Elba
 
