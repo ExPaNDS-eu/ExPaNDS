@@ -50,8 +50,8 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 -	DIGITAL Leaps.  
 ### 3.b. Do you aim to help widen access to data?
 -	So yes, in consequence of you precious question, data needs to be accessable from outside of the facility. But we have to distinquish between making it available to the involved scientitists (that was possible already in the past) and making it available to other scientists which could be with similar objectives are fields of research or to completely different scientitists. 
-
-not sure I get this one. Known problem of some labs that can't afford proprietary software for data analsyis in specific fields. otherwise it's open calls so wveryone should be able to access our instruments and 'only' need to bring their probe along.
+-	EOSC is a chance to widen access to data, but it is not a quarantee.
+- Known problem of some labs that can't afford proprietary software for data analsyis in specific fields. otherwise it's open calls so wveryone should be able to access our instruments and 'only' need to bring their probe along.
 
 ### 4. Do existing research infrastructures like the diamond light source and the ALBA synchrotron have similar facilities, do they complement each other? 
 
@@ -69,6 +69,16 @@ not sure I get this one. Known problem of some labs that can't afford proprietar
   -	ANGLE RESOLVED PHOTOEMISSION SPECTROSCOPY (ARPES)
   -	OPTICS CHARACTERIZATION
 -	Diamond
+  - Mol Cristal. MX
+  - Fixed Wavelength MX
+  - Long Wavelength MX
+  - Mircofocus MX
+  - Nono Science
+  - Surface and Interface Diffraction
+  - Soft X-Ray
+  - Ptychographre
+  - High Resolution Powder Diffraction
+  - *XFEL* Hub
 
 ### 4.b. Do you have both high energy physics machines and sources of synchrotron light in the project?  
 - well that is difficult to distinquesh. The elektron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
