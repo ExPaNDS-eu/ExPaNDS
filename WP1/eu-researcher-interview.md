@@ -79,13 +79,26 @@ not sure I get this one. Known problem of some labs that can't afford proprietar
 - Whole point of trying to standardise policies is that we have users using several of our facilities (because of the above mentioned complementarity of instruments) and we want to make their life easier.
 - About the types of data generated, mention efforts towards NeXus.
 
-## 6. Are you providing access to both data from experiments, and also the subsequent analysis of that data by different groups of researchers? How can you ensure that data is provided in a way that meets the FAIR principles?  
+## 6. Are you providing access to both data from experiments, and also the subsequent analysis of that data by different groups of researchers? 
 
-yes we want to make analysis workflows also available along with the open data. Make the data produced by our facilities as FAIR as possible by default. Then it lies in the hands of the researchers but we can already make a lot.
+- often a first data analysis workflow is available at the beamline, on a specific technique, for example to reconstruct in 3D the structure of a molecule from the different images that were taken at the beamline (serial crystallography) so it's really useful to make these pipelines available to domain-scientists so that at least their first step of the analysis is done.
+- then more generally we want to enable the scientists to make their workflow available along with the data, so giving them the infrastructures and the framework to do so. Jupyter notebooks help a lot for that and also cloud computing, in particular container technologies.
 
-## 7. Is the project aiming to provide shared access to data from current day experiments, as well as  experiments that have already been conducted? Do the research infrastructures have extensive archives of data, will this be provided on an open access basis?
+## 6b. How can you ensure that data is provided in a way that meets the FAIR principles?  
+
+- what is important to keep in mind, is that we try to make the data produced by our facilities as FAIR as possible by default. 
+- starts with automating the collection of the metadata and using standard formats and vocabularies as much as possible (NeXus, techniques ontology)
+- then provide an infrastructure for persistent identifiers: already mainstream for publications, more and more spread for data and people and we're working also on instruments and samples, particularyly relevant for remote access.
+- self-FAIR assessment and pushing for data stewards - policies and standards are a moving target, RDA and NIAC involvement
+- in the end, it lies in the hands of the researchers but we can already make a lot happen without them even noticing.
+
+## 7. Is the project aiming to provide shared access to data from current day experiments, as well as  experiments that have already been conducted? 
 
 From current day and future experiments for sure, for past ones: will be left to the researcher. more and more possibilities offered by journals to link data to an already published publication (Elsevier e.g.) so could be an incentive. for us it depends on the policy, we can only make open what was produced when the data policy saying it will be made available after the embargo period was in application.
+
+## 7b Do the research infrastructures have extensive archives of data, will this be provided on an open access basis?
+- in general facilities archive all the data produced, but if it's not FAIR it's not reusable so it's mostly useless. the rate at which archived datasets are accessed is very low today. this is what we are changing, making this gold mine usable.
+- important now is to have access to extensive archives of FAIR data. and yes all this data will be made open access once embargo period are over - typically 3 years after the experiment. it's already started with open data catalogues of facilities openly accessible from a webbrowser (and in EOSC).
 
 ## 8. Do you expect that shared access to data will help academics work more efficiently and avoid duplicating research? Will scientists be able to re-use data available via EOSC to conduct entirely new research?   
 
