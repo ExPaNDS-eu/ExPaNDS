@@ -1,6 +1,6 @@
 Questions sent by Patrick from EU researcher journal for the interview on Feb 8,2022. Collecting here thoughts on answers.
 
-## 1. Could we just start by getting an understanding of the project's overall aims and objectives?  
+### 1. Could we just start by getting an understanding of the project's overall aims and objectives?  
 
 -	More importantly is to understand that the people who wrote the proposal are scientists from the facilities. So besides the objectives stated in the proposal (GA), the main objective was to really make life easier to our beamline scientists. We didn’t want to waste time on ‘theoretical objectives', which might nor might not be of use, but on the daily work of our scientists or customers. And to be noted, the people who met in London are managers from the operation branch of the facility who know what there are talking about. 
 -	We only had to bring our objectives in line with the EOSC goals, which wasn’t that difficult as the have a large overlap. 
@@ -94,7 +94,9 @@ not sure I get this one. Known problem of some labs that can't afford proprietar
 
 ## 7. Is the project aiming to provide shared access to data from current day experiments, as well as  experiments that have already been conducted? 
 
-From current day and future experiments for sure, for past ones: will be left to the researcher. more and more possibilities offered by journals to link data to an already published publication (Elsevier e.g.) so could be an incentive. for us it depends on the policy, we can only make open what was produced when the data policy saying it will be made available after the embargo period was in application.
+- From current day and future experiments for sure, for past ones: will be left to the researcher. more and more possibilities offered by journals to link data to an already published publication (Elsevier e.g.) so could be an incentive.
+- More on the past ones : with much better detectors previous images might become less interesting. Especially in PaN, experiments can be repeated. Other than in astronomy and earth science. You can neither watch the explosion of a super nova nor the extinction of a species a second time, but you can put better probes into more brilliant beams and higher resolution detectors. (So it is repeatable science like High Energy Physics)
+- For us it depends on the policy, we can only make open what was produced when the data policy saying it will be made available after the embargo period was in application.
 
 ## 7b Do the research infrastructures have extensive archives of data, will this be provided on an open access basis?
 - in general facilities archive all the data produced, but if it's not FAIR it's not reusable so it's mostly useless. the rate at which archived datasets are accessed is very low today. this is what we are changing, making this gold mine usable.
