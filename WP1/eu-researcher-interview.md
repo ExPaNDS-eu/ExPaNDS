@@ -32,12 +32,12 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 -	The field are essentially endless. 
 -	Wherever you need deep inside into matter you need bright (high energetic) short and brilliant laser pulses. (or high density focused neutron beams.)
 -	Besides the different technologies (how you use the beam to make the picture) there is on the high level :
-   - Medicine, Behaviour of protein structures in new medication
-   - Biology, DNA and viruses. 
-   - Material, make them stronger and lighter, reduce aging. 
-   - Behaviour of especially water, which is becoming significant in the future.  
-   - New Technologies, like quantum and batterie science
-   - Culturual Heritage, non invasive investiations of very old material , picture and documents. 
+   -	Medicine, Behaviour of protein structures in new medication
+   -	Biology, DNA and viruses. 
+   -	Material, make them stronger and lighter, reduce aging. 
+   -	Behaviour of especially water, which is becoming significant in the future.  
+   -	New Technologies, like quantum and batterie science
+   -	Culturual Heritage, non invasive investiations of very old material , picture and documents. 
 
 Yes from heritage science to life science and material research, everything that needs to be looked at with a super microscope. Applied research: batteries + BioNTech vaccines. Fundamental: 
 
