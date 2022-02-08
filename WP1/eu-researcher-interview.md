@@ -42,7 +42,10 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 
 Yes from heritage science to life science and material research, everything that needs to be looked at with a super microscope. Applied research: batteries + BioNTech vaccines. Fundamental: 
 
-> 3. Is quite sophisticated equipment typically required to conduct research into photon and neutron behaviour, are some researchers limited in their access to this equipment? Do you aim to help widen access to data? 
+> 3. Is quite sophisticated equipment typically required to conduct research into photon and neutron behaviour, are some researchers limited in their access to this equipment? Do you aim to help widen access to data?
+-	It is not the behavior of photon and neutrons but the behavior of the probes. 
+-	The research material definitely need access to the equipment, the individual researcher might not. There were initiatives, already before Corana but particularly because of Corona to operate beamlines (this is where the scientists make their experiments) remotely. The probes are sent to the facility and the operators at the facilities apply the probes into the beam. There is quite some investment into robotics to do that. However the supply chain has to be made reliable (and timely)
+-	DIGITAL Leaps.  
 
 not sure I get this one. Known problem of some labs that can't afford proprietary software for data analsyis in specific fields. otherwise it's open calls so wveryone should be able to access our instruments and 'only' need to bring their probe along.
 
