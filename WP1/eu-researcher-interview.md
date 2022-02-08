@@ -68,7 +68,7 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
   -	RESONANT ABSORPTION AND SCATTERING
   -	ANGLE RESOLVED PHOTOEMISSION SPECTROSCOPY (ARPES)
   -	OPTICS CHARACTERIZATION
--	Diamond
+- Diamond
   - Mol Cristal. MX
   - Fixed Wavelength MX
   - Long Wavelength MX
@@ -81,7 +81,7 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
   - *XFEL* Hub
 
 ### 4.b. Do you have both high energy physics machines and sources of synchrotron light in the project?  
-- well that is difficult to distinquesh. The electron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
+- well that is difficult to distinguish. The electron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
 
 ### 5. Is the project aiming to develop a more standardised approach to data collection and data management at photon and neutron facilities? Do different facilities currently have different policies, do they generate different types of data?     
 
