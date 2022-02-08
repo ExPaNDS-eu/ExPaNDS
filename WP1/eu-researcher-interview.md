@@ -32,6 +32,7 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 -	The field are essentially endless. 
 -	Wherever you need deep inside into matter you need bright (high energetic) short and brilliant laser pulses. (or high density focused neutron beams.)
 -	Besides the different technologies (how you use the beam to make the picture) there is on the high level :
+  - To deliver the EOSC to the wide variety of Photon and Neutron users 
   - Medicine, Behaviour of protein structures in new medication
   - Biology, DNA and viruses. 
   - Material, make them stronger and lighter, reduce aging. 
