@@ -19,7 +19,7 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
 -	The question is a bit misleading. We don’t work on information on photons and neutrons. That are the scientists in High Energy Physics.
 -	CLEARIFY : What is photon and neutron science
   -	beam, detector, technology, analysis.
-  - 	Why photon and neutron. (common : wave, electric , strong force)
+  - Why photon and neutron. (common : wave, electric , strong force)
 -	Enabling access is not the only objective. But yes it would help in a variety of ways.
 -	Science is generally always based on the findings of previous experiments (or evaluations , findings). 
 -	So the more information you can collect before you start working on a particular topic the more precise will be your work and the less you have to repeat. 
@@ -38,6 +38,8 @@ FAIR, EOSC, national RIs missing from PaNOSC. Example.
   - Behaviour of especially water, which is becoming significant in the future.  
   - New Technologies, like quantum and batterie science
   - Culturual Heritage, non invasive investiations of very old material , picture and documents. 
+- Official objectives are :
+  - To deliver the EOSC to the wide variety of Photon and Neutron users 
 
 Yes from heritage science to life science and material research, everything that needs to be looked at with a super microscope. Applied research: batteries + BioNTech vaccines. Fundamental: 
 
