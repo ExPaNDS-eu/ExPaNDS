@@ -51,7 +51,7 @@ Yes from heritage science to life science and material research, everything that
 
 not sure I get this one. Known problem of some labs that can't afford proprietary software for data analsyis in specific fields. otherwise it's open calls so wveryone should be able to access our instruments and 'only' need to bring their probe along.
 
-## 4. Do existing research infrastructures like the diamond light source and the ALBA synchrotron have similar facilities, do they complement each other? Do you have both high energy physics machines and sources of synchrotron light in the project?  
+## 4. Do existing research infrastructures like the diamond light source and the ALBA synchrotron have similar facilities, do they complement each other? 
 
 - Each facility has its specialties, in wavelenght, in luminosity, even neutron and photon complement each other (photo of the telephone). And inside the facility, again each beamline has its own community / application / possibilities. Commonalities too of course. Prepare some examples.
 - Both: the complement and there is competition in term of the technologies. But the basic phycis is the same. 
@@ -68,7 +68,8 @@ not sure I get this one. Known problem of some labs that can't afford proprietar
   -	OPTICS CHARACTERIZATION
 -	Diamond
 
-
+## 4.b. Do you have both high energy physics machines and sources of synchrotron light in the project?  
+- well that is difficult to distinquesh. The elektron part of the sychrotron is physically a high energry physics machine as it is accelerating electrons to Gev energy. The modern sync. are build exactly for those purposes but e.g. at DESY the Petra ring was a HEP machine in the past. 
 
 ## 5. Is the project aiming to develop a more standardised approach to data collection and data management at photon and neutron facilities? Do different facilities currently have different policies, do they generate different types of data?     
 
