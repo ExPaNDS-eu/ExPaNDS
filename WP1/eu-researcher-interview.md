@@ -91,10 +91,22 @@ will be left to the researcher. more and more possibilities offered by journals 
 
 oh yes that's the whole point. prepare examples.
 
-## 9. Is photon and neutron data central to the technologies of the future, for example quantum computers? How important is photon and neutron data to the development of new medicines and new technologies?  
+## 9. Is photon and neutron data central to the technologies of the future, for example quantum computers? 
 
-very. examples again.
+-	In general Yes: for new technologies one need to understand the material it is build upon. So like batteries, nano technologies, aging process in material but also ‘cultural heritage’ allowing to read book and other documents w/o opening (breaking) them. 
+-	On quantum is the same: There was a task force discussing this at one point Short answer:  We study materials, material properties, including measurements of quantum effects. These materials and an understanding of them is needed to make quantum computers.  But do we make the computers themselves, or have direct input into the machines - no. We are in effect a layer or two back providing measurements and data to those who do that.
+-	BUT : LEAPS meets Quantum Technology in May on Elba
+
+
+## 9b. How important is photon and neutron data to the development of new medicines and new technologies?  
+
+- I think that has already beeing answered above.
+- examples again. 
 
 ## 10. Do you have any plans to extend the project beyond its initial term, how do you anticipate your research will evolve in future? Could the Expands project turn into a permanent initiative, will further facilities be added in future?  
 
-god no ;) but mention LEAPS and LENS as permanent initiatives keeping the community together and follow-up projects, we still have a lot to do to keep PaN on top of research data management practices.
+- Not in this particular configuation.
+- As we don't have the ESFRIs in our project, a permanent initiative needs to be broader. Which is were LEAPs and LENs come in. 
+- They are the backbone for further common development, policies and the launch of more EU project with data policies and improved technologies in mind.
+- But ExPaNDS got them the oportunity and the money to consolidate some topics and to adjust their long term objectives.
+
