@@ -85,11 +85,12 @@ yes we want to make analysis workflows also available along with the open data. 
 
 ## 7. Is the project aiming to provide shared access to data from current day experiments, as well as  experiments that have already been conducted? Do the research infrastructures have extensive archives of data, will this be provided on an open access basis?
 
-will be left to the researcher. more and more possibilities offered by journals to link data to an already published publication (Elsevier e.g.) so could be an incentive. for us it depends on the policy, we can only make open what was produced when the data policy saying it will be made available after the embargo period was in application.
+From current day and future experiments for sure, for past ones: will be left to the researcher. more and more possibilities offered by journals to link data to an already published publication (Elsevier e.g.) so could be an incentive. for us it depends on the policy, we can only make open what was produced when the data policy saying it will be made available after the embargo period was in application.
 
 ## 8. Do you expect that shared access to data will help academics work more efficiently and avoid duplicating research? Will scientists be able to re-use data available via EOSC to conduct entirely new research?   
 
-oh yes that's the whole point. prepare examples.
+- oh yes that's the whole point. More efficiently because they will have access to more previously performed research (ex. given above of the reflectometry community which can set model parameters in a much more accurate way when they have access to previous data). 
+- This accompanies a change of paradigm too, making the data available and then waiting for unknown scientists to make the best use of it possible. This was started by Copernicus around 2014 already, they made the data openly available and since then we've seen a lot of emerging papers. It's the same with the ESRF human atlas that was recently launched - the publication is only the (open) data, there is not paper.
 
 ## 9. Is photon and neutron data central to the technologies of the future, for example quantum computers? 
 
@@ -101,7 +102,6 @@ oh yes that's the whole point. prepare examples.
 ## 9b. How important is photon and neutron data to the development of new medicines and new technologies?  
 
 - I think that has already beeing answered above.
-- examples again. 
 
 ## 10. Do you have any plans to extend the project beyond its initial term, how do you anticipate your research will evolve in future? Could the Expands project turn into a permanent initiative, will further facilities be added in future?  
 
