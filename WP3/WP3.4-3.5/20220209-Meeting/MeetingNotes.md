@@ -45,3 +45,6 @@ Marta presented the doodle result for the date of the workshop. The format and c
 
 - Send invitation to all ExPaNDS. Marta volunteered.
 - Setup Indico page for registration and managing of Workshop. Marta volunteered to work with presenters.
+
+## Next meeting on 16 March 2022 at 15:00.
+- Final review of KeyCloak-UmbrellaID Workshop
