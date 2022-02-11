@@ -38,6 +38,7 @@ Marta presented the doodle result for the date of the workshop. The format and c
 ### For Task 3.4
 
 - Send doodle to set a date for the Data Catalogue Workshop. Rolf volunteered.
+  Update: the [date poll](https://terminplaner.dfn.de/vYMzA4LldsA2Uy7g) is out.
 - Organize a meeting on March 30, 2022 to discuss the Workshop
 
 ### For Task 3.5
