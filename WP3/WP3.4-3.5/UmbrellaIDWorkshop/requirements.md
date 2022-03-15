@@ -17,9 +17,12 @@ Please contact wp3@expands.eu if you have any specific requirements or technical
 ### Previous workshop provided to PaNOSC
 https://indico.psi.ch/event/10773/
 
-### Timeline for the workshop 
-February/March 2022 (TBD)
-Mid March (Doodle to be sent out to wp3@expands.eu ) 2/3 week of March 
+### Date of the workshop 
+24th March 2022
+
+### Agenda and registration
+ https://indico.psi.ch/event/12701/
+ 
 
 ### Requirements
 
