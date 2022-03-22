@@ -18,7 +18,7 @@ Please contact wp3@expands.eu if you have any specific requirements or technical
 https://indico.psi.ch/event/10773/
 
 ### Date of the workshop 
-24th March 2022
+**To be decided **
 
 ### Agenda and registration
  https://indico.psi.ch/event/12701/
