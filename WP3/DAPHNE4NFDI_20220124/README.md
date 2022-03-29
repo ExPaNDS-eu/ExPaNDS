@@ -10,4 +10,4 @@ The workshop agenda and slides shared during the workshop are available in the f
 * intro --> The_DAPHNE4NFDI_project.pdf
 * The SciCat data portal.pdf --> SciCat_data_portal.pdf
 
-The other speakers are invited to add the corresponding material.
+The other speakers are please invited to add the corresponding material.
