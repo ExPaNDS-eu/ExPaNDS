@@ -1,4 +1,4 @@
-## UmbrellaID Workshop Preparation
+## UmbrellaID Workshop : 3rd of May 
 
 WP3 T3.5 has been discussing the integration of UmbrellaID + Keycloak at the facilities
 data catalogues.  
@@ -12,13 +12,12 @@ Please contact wp3@expands.eu if you have any specific requirements or technical
 
 ### Who will be providing the workshop?
 - GEANT: Christos kanellopoulos
-- ESRF: Jean Francois Perrin
+- ESRF: Jean-François Perrin
+- PSI: Björn Erik Abt
 
-### Previous workshop provided to PaNOSC
-https://indico.psi.ch/event/10773/
 
 ### Date of the workshop 
-**To be decided **
+**Tuesday 3rd of May**
 
 ### Agenda and registration
  https://indico.psi.ch/event/12701/
@@ -27,9 +26,9 @@ https://indico.psi.ch/event/10773/
 ### Requirements
 
 - Integration of Keycloak with UmbrellaID 
-- To agree on the sessions that we need 
-- How to integrate a service (such us the data catalogue) into keycloak. Small overview (not in detail) To discuss with organisers
--eduTeams intro 
+- EOSC AARC architecture
+- How to integrate a service (such us the data catalogue) with keycloak. Small overview (not in detail) To discuss with organisers
+
 
 ### Checklist for the hands on session 
  
@@ -40,6 +39,10 @@ https://indico.psi.ch/event/10773/
   everywhere  (I.E. the machine should be referenced with the same domain name from the RI/lab intranet 
   and public internet network)
 - A valid X509 server certificate
+
+
+### Previous workshop provided to PaNOSC
+https://indico.psi.ch/event/10773/
 
 ### Q&A
 
