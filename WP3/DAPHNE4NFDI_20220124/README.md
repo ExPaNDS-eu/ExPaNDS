@@ -8,7 +8,7 @@ The workshop agenda and slides shared during the workshop are available in the f
 
 * Agenda --> [DAPHNE_WS.pdf](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/DAPHNE4NFDI_20220124/DAPHNE_WS.pdf)
 * Introduction --> [The_DAPHNE4NFDI_project.pdf](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/DAPHNE4NFDI_20220124/The_DAPHNE4NFDI_project.pdf)
-* The SciCat data portal.pdf --> [SciCat_data_portal.pdf](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/DAPHNE4NFDI_20220124/SciCat_data_portal.pdf)
+* The SciCat data portal.pdf --> [SciCatForUsers.pdf](https://github.com/ExPaNDS-eu/ExPaNDS/blob/master/WP3/DAPHNE4NFDI_20220124/SciCatForUsers.pdf)
 * The ICAT project - a modular ecosystem of open-source tools for large-scale facilities data management --> [Slides in Zenodo](https://doi.org/10.5281/zenodo.6401156). Please cite as: *Alejandra Gonzalez-Beltran. (2022, January 24). The ICAT project - a modular ecosystem of open-source tools for large-scale facilities data management. Zenodo. https://doi.org/10.5281/zenodo.6401156*
 
 The other speakers are please invited to add the corresponding material.
